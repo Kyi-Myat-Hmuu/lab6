@@ -1,6 +1,7 @@
 class aprogram{
 
 	public static void main(String[] args){
-		System.out.println("Hello World! modified in main!");
+		System.out.println("Hello World! RESOLVED");
+
 	}
 }
